@@ -1,0 +1,23 @@
+[
+{
+    "name":"subject",
+"type":
+[
+    "bussnis","art","software","learn","computer"
+]
+},
+{
+    "name":"skills",
+"type":
+    [
+    "account","managment","english","speak","fast"
+    ]
+    },
+    {
+        "name":"level",
+"type":
+        [
+    "beginner","intermediate","advance","mixed"
+        ]
+        }
+]

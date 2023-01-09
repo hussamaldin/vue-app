@@ -1,9 +1,16 @@
 import { createStore } from "vuex";
 
 export default createStore({
-  state: {},
+  state: {
+    open:false,
+    nav:false
+  },
   getters: {},
-  mutations: {},
+  mutations: {
+    change (state) {
+      state.nav= !state.nav
+    },
+  },
   actions: {},
   modules: {},
 });
