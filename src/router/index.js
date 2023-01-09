@@ -3,7 +3,7 @@ import Home from "../components/Home.vue";
 
 const routes = [
   {
-    path: "/nested",
+    path: "/",
     name: "home",
     component: Home,
   },
