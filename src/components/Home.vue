@@ -114,22 +114,22 @@
       <div class="bg-indigo-900 p-[80px] my-[1px]">
           <div class="flex justify-center my-1 ph:my-4 slidet opacity-0"><p class="text-lg ph:text-2xl font-bold text-center ph:text-5xl text-white">We’re Good with Numbers</p></div>
           <div class="flex flex-row ph:flex-nowrap flex-wrap text-white justify-center my-[30px] ph:my-[60px]">
-              <div class="flex flex-col justify-center items-center mx-4">
+              <div class="flex flex-col w-full justify-center items-center mx-4">
                   <div class="text-4xl ph:text-7xl slidet opacity-0 my-2 font-bold">15</div>
                   <div class="text-lg ph:text-xl slidet opacity-0 text-center my-2">Years of Experience</div>
               </div>
-              <div class="flex justify-center mx-3 items-center slidet opacity-0"><span class="rounded-full bg-white w-[5px] ph:w-[10px] h-[5px] ph:h-[10px]"></span></div>
-                            <div class="flex flex-col justify-center items-center  mx-[30px]">
+              <div class="flex justify-center w-full mx-3 items-center slidet opacity-0"><span class="rounded-full bg-white w-[5px] ph:w-[10px] h-[5px] ph:h-[10px]"></span></div>
+                <div class="flex flex-col justify-center w-full items-center  mx-[30px]">
                   <div class="text-4xl ph:text-7xl my-2 font-bold slidet opacity-0">36</div>
                   <div class="text-lg ph:text-xl text-center my-2 slidet opacity-0">Qualified Experts</div>
               </div>
-              <div class="flex justify-center mx-3 items-center slidet opacity-0"><span class="rounded-full bg-white w-[5px] ph:w-[10px] h-[5px] ph:h-[10px]"></span></div>
-                            <div class="flex flex-col justify-center items-center  mx-[30px]">
+              <div class="flex justify-center w-full mx-3 items-center slidet opacity-0"><span class="rounded-full bg-white w-[5px] ph:w-[10px] h-[5px] ph:h-[10px]"></span></div>
+                <div class="flex flex-col w-full justify-center items-center  mx-[30px]">
                   <div class="text-4xl ph:text-7xl my-2 font-bold slidet opacity-0">120</div>
                   <div class="text-lg ph:text-xl text-center my-2 slidet opacity-0">Clients Every Year</div>
               </div>
-              <div class="flex justify-center mx-3 items-center slidet opacity-0"><span class="rounded-full bg-white w-[5px] ph:w-[10px] h-[5px] ph:h-[10px]"></span></div>
-                            <div class="flex flex-col justify-center items-center mx-[30px]">
+              <div class="flex justify-center w-full mx-3 items-center slidet opacity-0"><span class="rounded-full bg-white w-[5px] ph:w-[10px] h-[5px] ph:h-[10px]"></span></div>
+                <div class="flex flex-col w-full justify-center items-center mx-[30px]">
                   <div class="text-4xl ph:text-7xl my-2 font-bold slidet opacity-0">9</div>
                   <div class="text-lg ph:text-xl text-center my-2 slidet opacity-0">Intl. Partners</div>
               </div>
